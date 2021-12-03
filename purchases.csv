@@ -1,0 +1,51 @@
+Customer,Purchase date,Product,Quantity purchased
+Eve,20180526,Egg sandwich,1.0
+Carol,20180615,Chocolate bar,2.0
+Carol,20180504,Drink,1.0
+Carol,20180524,Salami sandwich,2.0
+Frank,20180523,Drink,2.0
+Frank,20180629,Coffee,3.0
+Alice,20180526,Coffee,2.0
+Carol,20180518,Drink,3.0
+Frank,20180622,Drink,1.0
+Frank,20180501,Drink,3.0
+Alice,20180510,Chocolate bar,1.0
+Bob,20180630,Chocolate bar,1.0
+Bob,20180501,Coffee,3.0
+Carol,20180521,Drink,1.0
+Carol,20180627,Coffee,2.0
+Carol,20180623,Salami sandwich,2.0
+Alice,20180507,Chocolate bar,3.0
+Bob,20180527,Drink,1.0
+Carol,20180524,Coffee,2.0
+Bob,20180529,Coffee,2.0
+Dave,20180620,Salami sandwich,2.0
+Frank,20180601,Egg sandwich,3.0
+Eve,20180623,Chocolate bar,1.0
+Bob,20180612,Salami sandwich,3.0
+Alice,20180604,Salami sandwich,1.0
+Alice,20180615,Salami sandwich,3.0
+Bob,20180506,Coffee,1.0
+Frank,20180524,Coffee,3.0
+Carol,20180617,Coffee,2.0
+Carol,20180505,Egg sandwich,2.0
+Dave,20180520,Coffee,3.0
+Carol,20180507,Coffee,1.0
+Alice,20180509,Egg sandwich,2.0
+Carol,20180529,Drink,1.0
+Dave,20180521,Chocolate bar,3.0
+Frank,20180529,Drink,2.0
+Bob,20180630,Chocolate bar,3.0
+Carol,20180513,Salami sandwich,2.0
+Bob,20180523,Coffee,2.0
+Bob,20180623,Egg sandwich,2.0
+Eve,20180608,Chocolate bar,3.0
+Carol,20180604,Coffee,3.0
+Carol,20180508,Egg sandwich,1.0
+Frank,20180602,Salami sandwich,1.0
+Alice,20180603,Drink,3.0
+Frank,20180622,Egg sandwich,2.0
+Eve,20180507,Salami sandwich,1.0
+Dave,20180527,Salami sandwich,2.0
+Dave,20180617,Coffee,2.0
+Alice,20180503,Salami sandwich,3.0
